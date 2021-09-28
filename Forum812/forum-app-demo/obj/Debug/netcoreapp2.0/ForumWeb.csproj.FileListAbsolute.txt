@@ -1,0 +1,34 @@
+D:\Ккурсовая\dotnet-forum-starter-master\dotnet-forum-starter-master\forum-app-demo\bin\Debug\netcoreapp2.0\ForumWeb.deps.json
+D:\Ккурсовая\dotnet-forum-starter-master\dotnet-forum-starter-master\forum-app-demo\bin\Debug\netcoreapp2.0\ForumWeb.runtimeconfig.json
+D:\Ккурсовая\dotnet-forum-starter-master\dotnet-forum-starter-master\forum-app-demo\bin\Debug\netcoreapp2.0\ForumWeb.runtimeconfig.dev.json
+D:\Ккурсовая\dotnet-forum-starter-master\dotnet-forum-starter-master\forum-app-demo\bin\Debug\netcoreapp2.0\ForumWeb.dll
+D:\Ккурсовая\dotnet-forum-starter-master\dotnet-forum-starter-master\forum-app-demo\bin\Debug\netcoreapp2.0\ForumWeb.pdb
+D:\Ккурсовая\dotnet-forum-starter-master\dotnet-forum-starter-master\forum-app-demo\bin\Debug\netcoreapp2.0\Forum.Data.dll
+D:\Ккурсовая\dotnet-forum-starter-master\dotnet-forum-starter-master\forum-app-demo\bin\Debug\netcoreapp2.0\Forum.Service.dll
+D:\Ккурсовая\dotnet-forum-starter-master\dotnet-forum-starter-master\forum-app-demo\bin\Debug\netcoreapp2.0\Forum.Data.pdb
+D:\Ккурсовая\dotnet-forum-starter-master\dotnet-forum-starter-master\forum-app-demo\bin\Debug\netcoreapp2.0\Forum.Service.pdb
+D:\Ккурсовая\dotnet-forum-starter-master\dotnet-forum-starter-master\forum-app-demo\obj\Debug\netcoreapp2.0\ForumWeb.csprojAssemblyReference.cache
+D:\Ккурсовая\dotnet-forum-starter-master\dotnet-forum-starter-master\forum-app-demo\obj\Debug\netcoreapp2.0\ForumWeb.csproj.CoreCompileInputs.cache
+D:\Ккурсовая\dotnet-forum-starter-master\dotnet-forum-starter-master\forum-app-demo\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+D:\Ккурсовая\dotnet-forum-starter-master\dotnet-forum-starter-master\forum-app-demo\obj\Debug\netcoreapp2.0\ForumWeb.AssemblyInfoInputs.cache
+D:\Ккурсовая\dotnet-forum-starter-master\dotnet-forum-starter-master\forum-app-demo\obj\Debug\netcoreapp2.0\ForumWeb.AssemblyInfo.cs
+D:\Ккурсовая\dotnet-forum-starter-master\dotnet-forum-starter-master\forum-app-demo\obj\Debug\netcoreapp2.0\ForumWeb.csproj.CopyComplete
+D:\Ккурсовая\dotnet-forum-starter-master\dotnet-forum-starter-master\forum-app-demo\obj\Debug\netcoreapp2.0\ForumWeb.dll
+D:\Ккурсовая\dotnet-forum-starter-master\dotnet-forum-starter-master\forum-app-demo\obj\Debug\netcoreapp2.0\ForumWeb.pdb
+D:\Ккурсовая\Typoe govno\Forum812\forum-app-demo\bin\Debug\netcoreapp2.0\ForumWeb.deps.json
+D:\Ккурсовая\Typoe govno\Forum812\forum-app-demo\bin\Debug\netcoreapp2.0\ForumWeb.runtimeconfig.json
+D:\Ккурсовая\Typoe govno\Forum812\forum-app-demo\bin\Debug\netcoreapp2.0\ForumWeb.runtimeconfig.dev.json
+D:\Ккурсовая\Typoe govno\Forum812\forum-app-demo\bin\Debug\netcoreapp2.0\ForumWeb.dll
+D:\Ккурсовая\Typoe govno\Forum812\forum-app-demo\bin\Debug\netcoreapp2.0\ForumWeb.pdb
+D:\Ккурсовая\Typoe govno\Forum812\forum-app-demo\bin\Debug\netcoreapp2.0\Forum.Data.dll
+D:\Ккурсовая\Typoe govno\Forum812\forum-app-demo\bin\Debug\netcoreapp2.0\Forum.Service.dll
+D:\Ккурсовая\Typoe govno\Forum812\forum-app-demo\bin\Debug\netcoreapp2.0\Forum.Data.pdb
+D:\Ккурсовая\Typoe govno\Forum812\forum-app-demo\bin\Debug\netcoreapp2.0\Forum.Service.pdb
+D:\Ккурсовая\Typoe govno\Forum812\forum-app-demo\obj\Debug\netcoreapp2.0\ForumWeb.csprojAssemblyReference.cache
+D:\Ккурсовая\Typoe govno\Forum812\forum-app-demo\obj\Debug\netcoreapp2.0\ForumWeb.csproj.CoreCompileInputs.cache
+D:\Ккурсовая\Typoe govno\Forum812\forum-app-demo\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+D:\Ккурсовая\Typoe govno\Forum812\forum-app-demo\obj\Debug\netcoreapp2.0\ForumWeb.AssemblyInfoInputs.cache
+D:\Ккурсовая\Typoe govno\Forum812\forum-app-demo\obj\Debug\netcoreapp2.0\ForumWeb.AssemblyInfo.cs
+D:\Ккурсовая\Typoe govno\Forum812\forum-app-demo\obj\Debug\netcoreapp2.0\ForumWeb.csproj.CopyComplete
+D:\Ккурсовая\Typoe govno\Forum812\forum-app-demo\obj\Debug\netcoreapp2.0\ForumWeb.dll
+D:\Ккурсовая\Typoe govno\Forum812\forum-app-demo\obj\Debug\netcoreapp2.0\ForumWeb.pdb

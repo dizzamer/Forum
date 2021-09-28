@@ -1,0 +1,103 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "Forum.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.0",
+        "compile": {
+          "bin/placeholder/Forum.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Forum.Data.dll": {}
+        }
+      },
+      "Forum.Service/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.0",
+        "dependencies": {
+          "Forum.Data": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Forum.Service.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Forum.Service.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Forum.Data/1.0.0": {
+      "type": "project",
+      "path": "../Forum.Data/Forum.Data.csproj",
+      "msbuildProject": "../Forum.Data/Forum.Data.csproj"
+    },
+    "Forum.Service/1.0.0": {
+      "type": "project",
+      "path": "../Forum.Service/Forum.Service.csproj",
+      "msbuildProject": "../Forum.Service/Forum.Service.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v2.0": [
+      "D:\\Top secret\\КОЛЛЕДЖ\\С#\\Ккурсовая\\Typoe govno\\Forum812\\forum-app-demo\\ForumWeb.csproj",
+      "Forum.Data >= 1.0.0",
+      "Forum.Service >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Никита\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Top secret\\КОЛЛЕДЖ\\С#\\Ккурсовая\\Typoe govno\\Forum812\\Forum.Tests\\Forum.Tests.csproj",
+      "projectName": "Forum.Tests",
+      "projectPath": "D:\\Top secret\\КОЛЛЕДЖ\\С#\\Ккурсовая\\Typoe govno\\Forum812\\Forum.Tests\\Forum.Tests.csproj",
+      "packagesPath": "C:\\Users\\Никита\\.nuget\\packages\\",
+      "outputPath": "D:\\Top secret\\КОЛЛЕДЖ\\С#\\Ккурсовая\\Typoe govno\\Forum812\\Forum.Tests\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Никита\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp2.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "projectReferences": {
+            "D:\\Top secret\\КОЛЛЕДЖ\\С#\\Ккурсовая\\Typoe govno\\Forum812\\forum-app-demo\\ForumWeb.csproj": {
+              "projectPath": "D:\\Top secret\\КОЛЛЕДЖ\\С#\\Ккурсовая\\Typoe govno\\Forum812\\forum-app-demo\\ForumWeb.csproj"
+            },
+            "D:\\Top secret\\КОЛЛЕДЖ\\С#\\Ккурсовая\\Typoe govno\\Forum812\\Forum.Data\\Forum.Data.csproj": {
+              "projectPath": "D:\\Top secret\\КОЛЛЕДЖ\\С#\\Ккурсовая\\Typoe govno\\Forum812\\Forum.Data\\Forum.Data.csproj"
+            },
+            "D:\\Top secret\\КОЛЛЕДЖ\\С#\\Ккурсовая\\Typoe govno\\Forum812\\Forum.Service\\Forum.Service.csproj": {
+              "projectPath": "D:\\Top secret\\КОЛЛЕДЖ\\С#\\Ккурсовая\\Typoe govno\\Forum812\\Forum.Service\\Forum.Service.csproj"
+            }
+          }
+        }
+      }
+    },
+    "frameworks": {
+      "netcoreapp2.0": {}
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "Не удалось найти сведения о проекте для \"D:\\Top secret\\КОЛЛЕДЖ\\С#\\Ккурсовая\\Typoe govno\\Forum812\\forum-app-demo\\ForumWeb.csproj\". В Visual Studio, возможно, причина в том, что проект выгружен или не является частью текущего решения. В ином случае файл проекта может быть недопустим, или в нем могут отсутствовать целевые объекты, необходимые для восстановления.",
+      "libraryId": "D:\\Top secret\\КОЛЛЕДЖ\\С#\\Ккурсовая\\Typoe govno\\Forum812\\forum-app-demo\\ForumWeb.csproj",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.0"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+D:\Ккурсовая\dotnet-forum-starter-master\dotnet-forum-starter-master\forum-app-demo\bin\Debug\netcoreapp2.0\Forum.Web.deps.json
+D:\Ккурсовая\dotnet-forum-starter-master\dotnet-forum-starter-master\forum-app-demo\bin\Debug\netcoreapp2.0\Forum.Web.runtimeconfig.json
+D:\Ккурсовая\dotnet-forum-starter-master\dotnet-forum-starter-master\forum-app-demo\bin\Debug\netcoreapp2.0\Forum.Web.runtimeconfig.dev.json
+D:\Ккурсовая\dotnet-forum-starter-master\dotnet-forum-starter-master\forum-app-demo\bin\Debug\netcoreapp2.0\Forum.Web.dll
+D:\Ккурсовая\dotnet-forum-starter-master\dotnet-forum-starter-master\forum-app-demo\bin\Debug\netcoreapp2.0\Forum.Web.pdb
+D:\Ккурсовая\dotnet-forum-starter-master\dotnet-forum-starter-master\forum-app-demo\bin\Debug\netcoreapp2.0\Forum.Data.dll
+D:\Ккурсовая\dotnet-forum-starter-master\dotnet-forum-starter-master\forum-app-demo\bin\Debug\netcoreapp2.0\Forum.Service.dll
+D:\Ккурсовая\dotnet-forum-starter-master\dotnet-forum-starter-master\forum-app-demo\bin\Debug\netcoreapp2.0\Forum.Data.pdb
+D:\Ккурсовая\dotnet-forum-starter-master\dotnet-forum-starter-master\forum-app-demo\bin\Debug\netcoreapp2.0\Forum.Service.pdb
+D:\Ккурсовая\dotnet-forum-starter-master\dotnet-forum-starter-master\forum-app-demo\obj\Debug\netcoreapp2.0\Forum.Web.csprojAssemblyReference.cache
+D:\Ккурсовая\dotnet-forum-starter-master\dotnet-forum-starter-master\forum-app-demo\obj\Debug\netcoreapp2.0\Forum.Web.csproj.CoreCompileInputs.cache
+D:\Ккурсовая\dotnet-forum-starter-master\dotnet-forum-starter-master\forum-app-demo\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+D:\Ккурсовая\dotnet-forum-starter-master\dotnet-forum-starter-master\forum-app-demo\obj\Debug\netcoreapp2.0\Forum.Web.AssemblyInfoInputs.cache
+D:\Ккурсовая\dotnet-forum-starter-master\dotnet-forum-starter-master\forum-app-demo\obj\Debug\netcoreapp2.0\Forum.Web.AssemblyInfo.cs
+D:\Ккурсовая\dotnet-forum-starter-master\dotnet-forum-starter-master\forum-app-demo\obj\Debug\netcoreapp2.0\Forum.Web.csproj.CopyComplete
+D:\Ккурсовая\dotnet-forum-starter-master\dotnet-forum-starter-master\forum-app-demo\obj\Debug\netcoreapp2.0\Forum.Web.dll
+D:\Ккурсовая\dotnet-forum-starter-master\dotnet-forum-starter-master\forum-app-demo\obj\Debug\netcoreapp2.0\Forum.Web.pdb

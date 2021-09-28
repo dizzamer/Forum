@@ -1,0 +1,66 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "Forum.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.0",
+        "compile": {
+          "bin/placeholder/Forum.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Forum.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Forum.Data/1.0.0": {
+      "type": "project",
+      "path": "../Forum.Data/Forum.Data.csproj",
+      "msbuildProject": "../Forum.Data/Forum.Data.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v2.0": [
+      "Forum.Data >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Никита\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Top secret\\КОЛЛЕДЖ\\С#\\Ккурсовая\\Typoe govno\\Forum812\\Forum.Service\\Forum.Service.csproj",
+      "projectName": "Forum.Service",
+      "projectPath": "D:\\Top secret\\КОЛЛЕДЖ\\С#\\Ккурсовая\\Typoe govno\\Forum812\\Forum.Service\\Forum.Service.csproj",
+      "packagesPath": "C:\\Users\\Никита\\.nuget\\packages\\",
+      "outputPath": "D:\\Top secret\\КОЛЛЕДЖ\\С#\\Ккурсовая\\Typoe govno\\Forum812\\Forum.Service\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Никита\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp2.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "projectReferences": {
+            "D:\\Top secret\\КОЛЛЕДЖ\\С#\\Ккурсовая\\Typoe govno\\Forum812\\Forum.Data\\Forum.Data.csproj": {
+              "projectPath": "D:\\Top secret\\КОЛЛЕДЖ\\С#\\Ккурсовая\\Typoe govno\\Forum812\\Forum.Data\\Forum.Data.csproj"
+            }
+          }
+        }
+      }
+    },
+    "frameworks": {
+      "netcoreapp2.0": {}
+    }
+  }
+}

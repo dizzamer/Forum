@@ -1,0 +1,21 @@
+﻿@using Forum.Data.Models
+@model ErrorViewModel
+@{
+    ViewData["Title"] = "Error";
+}
+
+<h1 class="text-danger">Ошибка</h1>
+<h2 class="text-danger">Критическая ошибка проищошла при обработке запроса.</h2>
+
+@if (Model.ShowRequestId)
+{
+    <p>
+        <strong>Запросить ID:</strong> <code>@Model.RequestId</code>
+    </p>
+}
+
+<h3>Режим разработчика</h3>
+<p>
+    Переход в  <strong>среду разработчика</strong> отображает больше деталей об ошибках которые проищошли.
+</p>
+

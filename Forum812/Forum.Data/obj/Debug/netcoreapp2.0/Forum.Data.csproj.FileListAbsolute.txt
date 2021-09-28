@@ -1,0 +1,27 @@
+C:\Users\Wes\Projects\ProductiveDev\forum-app-demo\Forum.Data\bin\Debug\netcoreapp2.0\Forum.Data.deps.json
+C:\Users\Wes\Projects\ProductiveDev\forum-app-demo\Forum.Data\bin\Debug\netcoreapp2.0\Forum.Data.dll
+C:\Users\Wes\Projects\ProductiveDev\forum-app-demo\Forum.Data\bin\Debug\netcoreapp2.0\Forum.Data.pdb
+C:\Users\Wes\Projects\ProductiveDev\forum-app-demo\Forum.Data\obj\Debug\netcoreapp2.0\Forum.Data.csprojResolveAssemblyReference.cache
+C:\Users\Wes\Projects\ProductiveDev\forum-app-demo\Forum.Data\obj\Debug\netcoreapp2.0\Forum.Data.csproj.CoreCompileInputs.cache
+C:\Users\Wes\Projects\ProductiveDev\forum-app-demo\Forum.Data\obj\Debug\netcoreapp2.0\Forum.Data.AssemblyInfoInputs.cache
+C:\Users\Wes\Projects\ProductiveDev\forum-app-demo\Forum.Data\obj\Debug\netcoreapp2.0\Forum.Data.AssemblyInfo.cs
+C:\Users\Wes\Projects\ProductiveDev\forum-app-demo\Forum.Data\obj\Debug\netcoreapp2.0\Forum.Data.dll
+C:\Users\Wes\Projects\ProductiveDev\forum-app-demo\Forum.Data\obj\Debug\netcoreapp2.0\Forum.Data.pdb
+D:\Ккурсовая\dotnet-forum-starter-master\dotnet-forum-starter-master\Forum.Data\bin\Debug\netcoreapp2.0\Forum.Data.deps.json
+D:\Ккурсовая\dotnet-forum-starter-master\dotnet-forum-starter-master\Forum.Data\bin\Debug\netcoreapp2.0\Forum.Data.dll
+D:\Ккурсовая\dotnet-forum-starter-master\dotnet-forum-starter-master\Forum.Data\bin\Debug\netcoreapp2.0\Forum.Data.pdb
+D:\Ккурсовая\dotnet-forum-starter-master\dotnet-forum-starter-master\Forum.Data\obj\Debug\netcoreapp2.0\Forum.Data.csprojAssemblyReference.cache
+D:\Ккурсовая\dotnet-forum-starter-master\dotnet-forum-starter-master\Forum.Data\obj\Debug\netcoreapp2.0\Forum.Data.csproj.CoreCompileInputs.cache
+D:\Ккурсовая\dotnet-forum-starter-master\dotnet-forum-starter-master\Forum.Data\obj\Debug\netcoreapp2.0\Forum.Data.AssemblyInfoInputs.cache
+D:\Ккурсовая\dotnet-forum-starter-master\dotnet-forum-starter-master\Forum.Data\obj\Debug\netcoreapp2.0\Forum.Data.AssemblyInfo.cs
+D:\Ккурсовая\dotnet-forum-starter-master\dotnet-forum-starter-master\Forum.Data\obj\Debug\netcoreapp2.0\Forum.Data.dll
+D:\Ккурсовая\dotnet-forum-starter-master\dotnet-forum-starter-master\Forum.Data\obj\Debug\netcoreapp2.0\Forum.Data.pdb
+D:\Ккурсовая\Typoe govno\Forum812\Forum.Data\bin\Debug\netcoreapp2.0\Forum.Data.deps.json
+D:\Ккурсовая\Typoe govno\Forum812\Forum.Data\bin\Debug\netcoreapp2.0\Forum.Data.dll
+D:\Ккурсовая\Typoe govno\Forum812\Forum.Data\bin\Debug\netcoreapp2.0\Forum.Data.pdb
+D:\Ккурсовая\Typoe govno\Forum812\Forum.Data\obj\Debug\netcoreapp2.0\Forum.Data.csprojAssemblyReference.cache
+D:\Ккурсовая\Typoe govno\Forum812\Forum.Data\obj\Debug\netcoreapp2.0\Forum.Data.csproj.CoreCompileInputs.cache
+D:\Ккурсовая\Typoe govno\Forum812\Forum.Data\obj\Debug\netcoreapp2.0\Forum.Data.AssemblyInfoInputs.cache
+D:\Ккурсовая\Typoe govno\Forum812\Forum.Data\obj\Debug\netcoreapp2.0\Forum.Data.AssemblyInfo.cs
+D:\Ккурсовая\Typoe govno\Forum812\Forum.Data\obj\Debug\netcoreapp2.0\Forum.Data.dll
+D:\Ккурсовая\Typoe govno\Forum812\Forum.Data\obj\Debug\netcoreapp2.0\Forum.Data.pdb

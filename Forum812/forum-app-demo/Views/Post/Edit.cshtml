@@ -1,0 +1,22 @@
+﻿@model Forum.Web.Models.Post.NewPostModel
+
+<div class="container body-content">
+    <div class="row sectionHeader">
+        <div class="sectionHeading">New Post</div>
+        <div class="sectionDescription">
+            <p>
+                Прочитайте наши инструкции перед созданием поста.
+
+                @if (!Context.User.Identity.IsAuthenticated)
+                {
+                    <span>Вы должны быть <a asp-controller="Account" asp-action="Register">зарегистрированным пользователем</a> чтобы создать пост.</span>
+                }
+            </p>
+        </div>
+        @if (Context.User.Identity.IsAuthenticated)
+        {
+            <div class="createPost">
+            </div>
+        }
+    </div>
+</div>

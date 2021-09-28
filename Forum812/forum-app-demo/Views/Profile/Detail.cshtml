@@ -1,0 +1,64 @@
+﻿@using Microsoft.AspNetCore.Identity
+@model Forum.Web.Models.ApplicationUser.ProfileModel
+
+@inject UserManager<Forum.Data.Models.ApplicationUser> UserManager
+
+@{
+//var user = UserManager.FindByNameAsync(User.Identity.Name);
+//var isAdmin = user.Result.IsAdmin;
+}
+
+<div class="container body-content">
+    <div class="row sectionHeader">
+        <div class="sectionHeading noBorder">
+            Профиль пользователя
+        </div>
+        @if (User.IsInRole("Admin"))
+        {
+            <form method="post" asp-controller="Profile" asp-action="Deactivate" asp-route-id="@Model.UserId">
+                <div>
+                    <button class="btn btn-danger" active="@Model.IsActive">Удалить пользователя</button>
+                </div>
+            </form>
+        }
+    </div>
+    @if (Context.User.Identity.IsAuthenticated)
+    {
+        <div class="row userProfile">
+            <div class="col-md-4">
+                <div id="userProfileImage" style="background-image: url(@Model.ProfileImageUrl); background-size:100%;"></div>
+                @if (Context.User.Identity.Name == Model.Username)
+                {
+                    <form method="post" enctype="multipart/form-data" asp-controller="Profile" asp-action="UploadProfileImage">
+                        <div id="upload">
+                            <label class="btn btn-default btn-file">
+                                Открыть <input type="file" name="file" style="display: none;">
+                            </label>
+                        </div>
+                        <button type="submit" id="btn-profile" class="btn btn-default">Подтвердить</button>
+                    </form>
+                }
+            </div>
+            <div class="col-md-8">
+                <span id="userName">@Model.Username</span> 
+                @if (@Model.IsAdmin)
+                {
+                    <span class="isAdmin">Администратор</span>
+                }
+                <span id="userRating">Текущий рейтинг: @Model.UserRating</span>
+                <span id="userEmailLabel">Email: @Model.Email</span>
+                <span id="userCreatedLabel">Пользователь с: @Model.DateJoined</span>
+                <span id="userActiveLabel">Статус: 
+                    @if (!@Model.IsActive)
+                    {
+                        <span class="inactiveUser">Неактивный</span>
+                    }
+                    else
+                    {
+                        <span>Активный</span>
+                    }
+                </span>
+            </div>
+        </div>
+    }
+</div>

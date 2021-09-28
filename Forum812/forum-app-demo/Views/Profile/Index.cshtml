@@ -1,0 +1,65 @@
+﻿@model Forum.Web.Models.ApplicationUser.ProfileListModel
+
+<div class="container body-content">
+    <div class="row sectionHeader">
+        <div class="sectionHeading">Browse Users</div>
+    </div>
+    <div class="row" id="forumIndexContent">
+        <table class="table table-hover" id="forumIndexTable">
+            <thead>
+                <tr>
+                    <th>
+                        Изображение профиля
+                    </th>
+                    <th>
+                        Никнейм
+                    </th>
+                    <th>
+                        Пользователь с
+                    </th>
+                    <th>
+                        E-mail
+                    </th>
+                    <th>
+                        Рейтинг пользователя
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var profile in Model.Profiles)
+                {
+                    <tr class="userRow">
+                        <td>
+                            <div class="userProfilePic" style="background-image: url(@profile.ProfileImageUrl); background-size:100%"></div>
+                        </td>
+                        <td>
+                            @if (profile.IsActive)
+                            {
+                                <span>Активный</span>
+                            }
+                            else
+                            {
+                                <span class="inactiveUser">Неактивный</span>
+                            }
+                        </td>
+                        <td>
+                            @profile.DateJoined
+                        </td>
+                        <td>
+                            @profile.Email
+                        </td>
+                        <td>
+                            <a asp-controller="Profile" asp-action="Detail" , asp-route-id="@profile.UserId">
+                                @profile.Username
+                            </a>
+                        </td>
+                        <td>
+                            @profile.UserRating
+                        </td>
+                    </tr>
+                }
+
+            </tbody>
+        </table>
+    </div>
+</div>

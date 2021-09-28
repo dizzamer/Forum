@@ -1,0 +1,41 @@
+﻿@model Forum.Web.Models.Reply.PostReplyModel
+
+<div class="container body-content">
+    <div class="row sectionHeader">
+        <div class="sectionHeading">
+            Ответить | @Model.PostTitle
+            <div class="forumLogo" style="background-image: url(@Model.ForumImageUrl); background-size:100%"></div>
+            <span id="headingBtn"><a asp-controller="Forum" asp-action="Topic" asp-route-id="@Model.ForumId" class="btn btn-back">Вернуться назад @Model.ForumName</a></span>
+        </div>
+    </div>
+    <div class="row">
+        <div class="replyOriginalPost">
+            <h3>
+                @Model.PostTitle
+            </h3>
+            <p>
+                @Model.PostContent
+            </p>
+        </div>
+    </div>
+    <div class="row">
+        <div class="createPostSection">
+            <div class="authorBlock">
+                Вы отправляете этот ответ как <span class="authorBlockName">@Model.AuthorName</span>
+            </div>
+            <form asp-action="AddReply" method="post" id="addPostForm">
+                <div asp-validation-summary="All" class="text-danger"></div>
+                <div class="form-group">
+                    <label asp-for="ReplyContent">Post Content</label>
+                    <textarea asp-for="ReplyContent" rows="20" class="form-control" placeholder="Write your reply here."></textarea>
+                    <span asp-validation-for="ReplyContent" class="text-danger"></span>
+                </div>
+                <button type="submit" id="registerBtn" class="btn btn-submitPost">Подтвердить ответ</button>
+                <input asp-for="AuthorId" type="hidden" />
+                <input asp-for="PostId" type="hidden" />
+                <input asp-for="ForumName" type="hidden" />
+                <input asp-for="ForumId" type="hidden" />
+            </form>
+        </div>
+    </div>
+</div>
